@@ -86,6 +86,7 @@ CROP_OVERRIDES = {
     "fien-devroey": (0.49, 0.42, 0.80),
     "lotte-bertels": (0.55, 0.48, 0.56),     # landscape; face right of centre
     "luna-lenaerts": (0.47, 0.56, 0.80),     # 262px source — see README
+    "febe-vanherck": (0.53, 0.455, 0.85),
 }
 
 

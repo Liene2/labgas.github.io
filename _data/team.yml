@@ -381,6 +381,21 @@ members:
       - title: "MoodBugs"
         ref: "moodbugs"
 
+  - name: "Febe Vanherck"
+    photo: febe-vanherck.jpg
+    group: students
+    title: "Master's student"
+    bio_lead: "Febe obtained her Bachelor’s degree in Biomedical Sciences at Hasselt University in 2025 and is currently completing her Master of Biomedical Sciences with a minor in Nutrition at KU Leuven."
+    bio:
+      - "Febe obtained her Bachelor’s degree in Biomedical Sciences at Hasselt University in 2025 and is currently completing her Master of Biomedical Sciences with a minor in Nutrition at KU Leuven."
+      - "For her Bachelor’s thesis, she joined the Somers-Fraussen lab within the Immunology and Infection research group of the Biomedical Research Institute (BIOMED) at Hasselt University, under the supervision of Prof. Dr. Pieter Ruytinx and Dr. Astrid Pues. There, she worked on the expression and purification of recombinant thioredoxin in E. coli as a control protein for ELISA-based detection of autoantibodies against sperm-associated antigen 16 (SPAG16), a candidate autoantigen in multiple sclerosis."
+      - "After moving to KU Leuven, she first got to know TARGID during one of her lab rotations, working with Ward Zadora where she was introduced to research on intestinal barrier function in chronic kidney disease using organoid-derived intestinal epithelial monolayers. This experience sparked her interest in the gut and its interactions with the rest of the body."
+      - "Now in the second year of her Master’s, she is working on the BEACON project together with Anne-Sophie Nobel, under the supervision of Dr. Boushra Dalile. Within this project, they will investigate the role of butyrate in regulating threat learning, memory retrieval and chromatin modulation in human peripheral blood mononuclear cells (PBMCs)."
+    projects:
+      # As for Anne-Sophie: resolves once BEACON is on the Research page.
+      - title: "BEACON"
+        ref: "beacon"
+
   - name: "Fien Devroey"
     photo: fien-devroey.jpg
     group: students
