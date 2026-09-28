@@ -197,8 +197,8 @@ projects:
       Whether a multidimensional behavioural approach holds the key to treating
       persistent fatigue in inflammatory bowel disease.
     detail:
-      investigators: "Marc Ferrante (Leuven IBD Group), Lukas Van Oudenhove (LaBGAS), Livia Guadagnoli (Northwestern University & LaBGAS), Ilse Van Diest (Health Psychology), Maaike Van Den Houte (LaBGAS), Melina Hehl (LaBGAS)"
-      team: "Bep Keersmaekers (Leuven IBD Group & LaBGAS)"
+      investigators: "Marc Ferrante (Leuven IBD Group), Lukas Van Oudenhove (LaBGAS), Livia Guadagnoli (Northwestern University & LaBGAS), Ilse Van Diest (Health Psychology), Maaike Van Den Houte (LaBGAS)"
+      team: "Bep Keersmaekers (Leuven IBD Group & LaBGAS) and Melina Hehl (LaBGAS)"
       description:
         # No other project spells its acronym out on the card, so the expansion
         # goes here with the rest of the full title rather than in the tagline,
