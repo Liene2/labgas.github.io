@@ -346,6 +346,9 @@ members:
     bio:
       - "Bep is a clinical psychologist working within the IBD team at UZ Leuven, where she provides psychological care to patients with inflammatory bowel disease (IBD). Alongside her clinical work, she is pursuing a PhD focused on psychological interventions for patients with IBD, with a particular interest in improving wellbeing and reducing fatigue."
       - "As part of her PhD research, Bep is conducting the PEARL study, a 14-week psychological intervention for patients with IBD experiencing significant fatigue. The intervention combines Acceptance and Commitment Therapy (ACT), structured napping and graded physical activity, with the aim of reducing fatigue and improving daily functioning and wellbeing. In addition to evaluating the clinical effects of the intervention, the study also investigates potential underlying mechanisms by examining changes in metabolic and physiological markers before and after the intervention, including magnetic resonance spectroscopy (MRS)."
+    projects:
+      - title: "PEARL"
+        ref: "pearl"
 
   # --- Master's students & interns ---------------------------------------
   # The Team page skips any group with no members, so this section simply
