@@ -191,6 +191,8 @@ projects:
   - name: "PEARL"
     line: symptoms
     tagline: "A behavioural intervention for fatigue in IBD"
+    funder: "Helmsley Charitable Trust"
+    period: "2026 – 2029"
     summary: >-
       Whether a multidimensional behavioural approach holds the key to treating
       persistent fatigue in inflammatory bowel disease.
