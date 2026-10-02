@@ -19,6 +19,10 @@ groups:
     label: "Guest professors"
   - id: coordinator
     label: "Research coordination"
+  # Staff rather than trainees, so grouped with research coordination above the
+  # post-docs rather than down with the students.
+  - id: assistant
+    label: "Research assistants"
   - id: postdoc
     label: "Post-doctoral researchers"
   - id: phd
@@ -90,6 +94,21 @@ members:
     bio_lead: "Liene has more than a decade of experience in biomedical and clinical research within several universities and hospitals. She obtained a PhD in Biomedical Sciences at Hasselt University in Belgium."
     bio:
       - "Liene has more than a decade of experience in biomedical and clinical research within several universities and hospitals. She obtained a PhD in Biomedical Sciences at Hasselt University in Belgium. During her PhD research, she extended her knowledge about the metabolic health of obese children and adolescents by clinical and metabolomics research. Following her PhD, she specialized in gut microbiota research at the Penders Lab, Maastricht University in the Netherlands. Her postdoc research focused on host-microbiota-diet interactions in early life. She was also involved in the founding of the Euregional Microbiome Center. She now coordinates LaBGAS research projects that explore the gut-brain axis and how this impacts mental and physical health. Alongside her position as a research coordinator, she is also active as a dietitian and orthomolecular therapist in a private practice, providing individualized nutritional care and counselling for patients with a range of GI conditions. Liene's ultimate goal is to increase our knowledge and understanding on diet-microbiota-gut-brain interactions and translate this into practice in order to optimize our health and well-being."
+
+  # --- Research assistants ----------------------------------------------
+  - name: "Emily Van der Schueren"
+    photo: emily-van-der-schueren.jpg
+    group: assistant
+    title: "Research assistant"
+    bio_lead: "Emily obtained her master’s degree in Biomedical Sciences, with a minor in Clinical Sciences, at KU Leuven."
+    bio:
+      - "Emily obtained her master’s degree in Biomedical Sciences, with a minor in Clinical Sciences, at KU Leuven. In 2024, she joined LaBGAS to work on her master’s thesis, which investigated inflammatory markers and the neuroendocrine stress response system in people with chronic fatigue syndrome (CFS). Her research explored the potential role of immune and endocrine processes in CFS, focusing on inflammatory markers, cortisol responses to acute psychosocial stress, and self-reported stress levels. This experience sparked her interest in working directly with participants in psychobiological research."
+      - "After completing her master’s degree, Emily pursued a professional bachelor’s degree in Medical Laboratory Technology at UCLL in 2025. During this time, she returned to TARGID as an intern, where she gained practical experience in blood sampling for clinical studies. In October 2026, Emily officially rejoined TARGID as a research assistant. She contributes to two research projects and takes on the role of the laboratory’s primary phlebotomist. She particularly enjoys working with participants and supporting the practical aspects of clinical research."
+    projects:
+      - title: "SEM-BEAT"
+        ref: "sem-beat-glp-1-pharmacotherapy-optimisation"
+      - title: "MoodBugs"
+        ref: "moodbugs"
 
   # --- Post-docs --------------------------------------------------------
   - name: "Nathalie Weltens"
