@@ -260,7 +260,15 @@ projects:
 
   - name: "Neuropsychobiology of human obesity"
     line: appetite
-    funder: "FWO — Research Project"
+    tagline: "Stress, food reward, and the gut-brain axis"
+    funder: "FWO — Senior Research Project"
     period: "2026 – present"
     summary: >-
-      Study of the neuropsychobiological mechanisms underlying human obesity.
+      Unravelling the interplay between stress, food reward, and gut-brain
+      signalling in obesity and its implications for treatment response.
+    detail:
+      investigators: "Lukas Van Oudenhove (LaBGAS), Nathalie Weltens (LaBGAS), Roman Vangoitsenhoven (Clinical and Experimental Endocrinology)"
+      team: "Alexine Mennes, Annelies Falter, Emily Van der Schueren"
+      description:
+        - "Obesity is a major global health burden, yet its underlying pathophysiology remains poorly understood and current treatments have limited long-term success. Multiple neuropsychobiological systems have been implicated in obesity, including central and peripheral mechanisms regulating energy homeostasis and food reward, the stress response system, and the gut microbiota. However, these systems are often studied in isolation, limiting our understanding of their interactions and their contribution to the heterogeneous pathophysiology of obesity."
+        - "This project investigates the interplay between stress, food reward, eating behavior, and the gut-brain axis in obesity. In particular, we focus on inflammatory and endocrine gut-brain mechanisms that may link stress to altered dopamine-mediated food reward. We will further investigate whether distinct neuropsychobiological profiles can be identified and whether these profiles are associated with treatment outcomes. By integrating these systems within a mechanistic model of obesity, this project aims to advance our understanding of its heterogeneous pathophysiology and identify novel, individualized treatment targets."
