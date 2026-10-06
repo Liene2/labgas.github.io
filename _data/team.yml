@@ -109,6 +109,8 @@ members:
         ref: "sem-beat-glp-1-pharmacotherapy-optimisation"
       - title: "MoodBugs"
         ref: "moodbugs"
+      - title: "Neuropsychobiology of obesity"
+        ref: "neuropsychobiology-of-human-obesity"
 
   # --- Post-docs --------------------------------------------------------
   - name: "Nathalie Weltens"
@@ -347,6 +349,8 @@ members:
       - title: "SEM-BEAT"
         url: "https://gbiomed.kuleuven.be/english/research/50000625/50000628/labgas/projects/a-neuropsychobiological-approach-to-optimize-patient-selection-for-glp-1-based-pharmacotherapy-for-weight-management-across-the-binge-eating-spectrum"
         ref: "sem-beat-glp-1-pharmacotherapy-optimisation"
+      - title: "Neuropsychobiology of obesity"
+        ref: "neuropsychobiology-of-human-obesity"
   - name: "Annelies Falter"
     kuleuven_id: "00183708"
     group: phd
@@ -355,6 +359,8 @@ members:
       - title: "SEM-BEAT"
         url: "https://gbiomed.kuleuven.be/english/research/50000625/50000628/labgas/projects/a-neuropsychobiological-approach-to-optimize-patient-selection-for-glp-1-based-pharmacotherapy-for-weight-management-across-the-binge-eating-spectrum"
         ref: "sem-beat-glp-1-pharmacotherapy-optimisation"
+      - title: "Neuropsychobiology of obesity"
+        ref: "neuropsychobiology-of-human-obesity"
 
   # --- Clinical PhD students --------------------------------------------
   - name: "Bep Keersmaekers"
